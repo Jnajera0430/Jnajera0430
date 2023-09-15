@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on https://github.com/Jnajera0430/registro_empresa<br>🌱 I’m currently learning Node, React, Nestjs, Java, Python <br>💬 Ask me about najerajoseantonio052@gmail.com<br>⚡ Fun fact passionate about learning<br>Link del perfil de LinkedIn www.linkedin.com/in/jnajera0430
+🔭 I’m currently working on https://github.com/Jnajera0430/registro_empresa<br>🌱 I’m currently learning Node, React, Nestjs, Java, Python <br>💬 Ask me about najerajoseantonio052@gmail.com<br>⚡ Fun fact passionate about learning<br>👉 My resume in LinkedIn www.linkedin.com/in/jnajera0430
 
 
 # 💻 Tech Stack:
